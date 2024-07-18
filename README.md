@@ -15,3 +15,4 @@
 | Abstração                            | Utilizando abstração para focar nos aspectos relevantes de um problema e desenvolver algoritmos para resolver problemas de forma eficiente. |
 | Automação e Algoritmos               | Pensando em termos de algoritmos para automatizar tarefas e resolver problemas computacionais. |
 
+<img src="./img/banner.png" width="70%"/>
