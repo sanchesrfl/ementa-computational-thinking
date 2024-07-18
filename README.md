@@ -16,5 +16,5 @@
 | Automação e Algoritmos               | Pensando em termos de algoritmos para automatizar tarefas e resolver problemas computacionais. |
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSeYUaekWTEVF7O-WZ1YTZgs_KzjeHlg8Ega8WyPewnAOncbUQ/viewform">
-    <img src="./img/banner.png" width="80%" alt="Inscrições"/>
+    <img src="./img/banner.png" width="100%" alt="Inscrições"/>
 </a>
